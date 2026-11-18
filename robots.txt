@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://by-resto-671f2b.netlify.app/sitemap.xml
